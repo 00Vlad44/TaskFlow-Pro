@@ -218,11 +218,6 @@ Contributions are welcome. Please follow these steps:
 4. Push to your fork
 5. Submit a pull request
 
-Please ensure your code follows the existing style conventions and includes appropriate tests.
-
-## License
-
-MIT License - see LICENSE file for details
 
 ## Contact
 
